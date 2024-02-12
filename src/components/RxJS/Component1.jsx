@@ -1,4 +1,4 @@
-import { sharingInformationService } from "../services/sharing-information.service"
+import { sharingInformationService } from "../../services/sharing-information.service"
 
 const Component1 = () => {
 

@@ -1,5 +1,5 @@
 import { useEffect } from "react"
-import { sharingInformationService } from "../services/sharing-information.service"
+import { sharingInformationService } from "../../services/sharing-information.service"
 import { useState } from "react";
 
 const Component2 = () => {
